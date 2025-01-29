@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ponrajleo
-- 👀 I’m interested in ...embedded,automation,agriculture
-- 🌱 I’m currently learning ...embedded ,IOT
+- 👀 I’m interested in ...embedded, Automation,Agriculture, and Internet of Things
+- 🌱 I’m currently learning ...embedded,IOT
 - 💞️ I’m looking to collaborate on ...embedded systems
 - 📫 How to reach me ...ponrajleo93@gmail.com
 
